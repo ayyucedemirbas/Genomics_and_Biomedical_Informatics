@@ -1,0 +1,73 @@
+########################################
+# Program: needle
+# Rundate: Tue 16 Dec 2025 20:33:56
+# Commandline: needle
+#    -auto
+#    -asequence /var/lib/emboss-explorer/output/465774/.asequence
+#    -bsequence /var/lib/emboss-explorer/output/465774/.bsequence
+#    -datafile EPAM100
+#    -noendweight
+#    -brief
+#    -outfile outfile
+#    -aformat3 srspair
+# Align_format: srspair
+# Report_file: outfile
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: FOS_HUMAN
+# 2: ATF3_HUMAN
+# Matrix: EPAM100
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 402
+# Identity:      68/402 (16.9%)
+# Similarity:   112/402 (27.9%)
+# Gaps:         243/402 (60.4%)
+# Score: 218.5
+# 
+#
+#=======================================
+
+FOS_HUMAN          1 MMF--SGFNADYEASSSRCSSA------SPAGDSLSYYHSPADSFSSMGS     42
+                     ||.  .|     :.|:|..|::      ||:| ||.:             
+ATF3_HUMAN         1 MMLQHPG-----QVSASEVSASAIVPCLSPPG-SLVF-------------     31
+
+FOS_HUMAN         43 PVNAQDFCTDLAVSSANFIPTVTAISTSPDLQWLVQPAL----VSSVAPS     88
+                         :||        ||..|.|..     :|:..:|...    :||...|
+ATF3_HUMAN        32 ----EDF--------ANLTPFVKE-----ELRFAIQNKHLCHRMSSALES     64
+
+FOS_HUMAN         89 QTRAPHPFGVPAPSAGAYSRAGVVKTMTGGRAQSIGRRGKVEQLSPEEEE    138
+                     .|.:.:|.||                       ||.:    .:.:|||:|
+ATF3_HUMAN        65 VTVSDRPLGV-----------------------SITK----AEVAPEEDE     87
+
+FOS_HUMAN        139 KRRIRRERNKMAAAKCRNRRRELTDTLQAETDQLEDEKSALQTEIANLLK    188
+                     :::.||||||:|||||||:::|.|:.||.|::.||..::.|.::|.:|.:
+ATF3_HUMAN        88 RKKRRRERNKIAAAKCRNKKKEKTECLQKESEKLESVNAELKAQIEELKN    137
+
+FOS_HUMAN        189 EKEKLEFILAAHRPAC-------KIPDD---LGFPEEMSVASLDLTGGLP    228
+                     ||:.|.::|..|||:|       :.|:|   | |.:::..::|..     
+ATF3_HUMAN       138 EKQHLIYMLNLHRPTCIVRAQNGRTPEDERNL-FIQQIKEGTLQS-----    181
+
+FOS_HUMAN        229 EVATPESEEAFTLPLLNDPEPKPSVEPVKSISSMELKTEPFDDFLFPASS    278
+                                                                       
+ATF3_HUMAN       181 --------------------------------------------------    181
+
+FOS_HUMAN        279 RPSGSETARSVPDMDLSGSFYAADWEPLHSGSLGMGPMATELEPLCTPVV    328
+                                                                       
+ATF3_HUMAN       181 --------------------------------------------------    181
+
+FOS_HUMAN        329 TCTPSCTAYTSSFVFTYPEADSFPSCAAAHRKGSSSNEPSSDSLSSPTLL    378
+                                                                       
+ATF3_HUMAN       181 --------------------------------------------------    181
+
+FOS_HUMAN        379 AL    380
+                       
+ATF3_HUMAN       181 --    181
+
+
+#---------------------------------------
+#---------------------------------------
